@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "carDealership",
+            "connectString": "postgres://ehatabga:2xmeQ_AbMA3dfXj_LWiIrqC7YWPp2JWK@suleiman.db.elephantsql.com/ehatabga"
+        }
+    ]
+}
